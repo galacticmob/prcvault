@@ -1,2 +1,2 @@
 # prcrepo
-Central prc package vault for Galaxy Horizon.
+Central prc package vault for Galaxy Legacy.
